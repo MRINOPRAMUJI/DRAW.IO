@@ -42,7 +42,7 @@ Berikut adalah tampilan preview dari diagram:
 - Semua Processor mengakses satu shared memory bersama-sama.
 
 ## ✨ Credits
-Diagram dan desain dibuat oleh [Your Name].
+Diagram dan desain dibuat oleh [M. RINO PRAMUJI].
 
 ---
 
